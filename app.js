@@ -60,6 +60,19 @@
     results.innerHTML = filtered.map(renderCard).join("");
   }
 
+  /** Только номер пит-зоны (число). Поддержка числа в JSON или строки «42». */
+  function formatPitZone(v) {
+    if (v == null || v === "") return "—";
+    if (typeof v === "number" && Number.isFinite(v)) {
+      return String(Math.trunc(v));
+    }
+    const trimmed = String(v).trim();
+    const n = Number(trimmed);
+    if (Number.isFinite(n)) return String(Math.trunc(n));
+    const m = trimmed.match(/-?\d+/);
+    return m ? m[0] : "—";
+  }
+
   function renderCard(team) {
     const num = escapeHtml(team.number || "—");
     const name = escapeHtml(team.name || "Без названия");
@@ -84,7 +97,7 @@
       row("Запуск 2", team.launch2) +
       row("Запуск 3", team.launch3) +
       row("Judging Session", team.judging) +
-      row("Пит-зона", team.pitZone, true) +
+      row("Пит-зона", formatPitZone(team.pitZone), true) +
       "</div>" +
       "</article>"
     );
