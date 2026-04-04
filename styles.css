@@ -44,6 +44,35 @@
     z-index: 0;
   }
 
+  .bg-dragon {
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    overflow: hidden;
+  }
+
+  .bg-dragon-svg {
+    position: absolute;
+    right: -8%;
+    bottom: -12%;
+    width: min(110vw, 820px);
+    max-height: 85vh;
+    height: auto;
+    color: rgba(255, 255, 255, 0.06);
+    transform: rotate(-7deg);
+  }
+
+  @media (max-width: 520px) {
+    .bg-dragon-svg {
+      right: -20%;
+      bottom: -18%;
+      width: 130vw;
+      max-height: 70vh;
+      color: rgba(255, 255, 255, 0.045);
+    }
+  }
+
   .shell {
     position: relative;
     z-index: 1;
