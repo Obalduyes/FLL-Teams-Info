@@ -1,29 +1,272 @@
 [
   {
-    "number": "12345",
-    "name": "Robo Falcons",
-    "launch1": "Зал A, стол 2 — 09:40",
-    "launch2": "Зал A, стол 2 — 11:20",
-    "launch3": "Зал B, стол 1 — 14:10",
-    "judging": "Комната 3 — 10:15",
-    "pitZone": 12
+    "number": "60001",
+    "name": "CtrlRex",
+    "launch1": "09:05",
+    "launch2": "11:10",
+    "launch3": "14:00",
+    "judging": "10:05",
+    "pitZone": 1
   },
   {
-    "number": "67890",
-    "name": "Brick Builders",
-    "launch1": "Зал A, стол 4 — 10:00",
-    "launch2": "Зал B, стол 3 — 12:00",
-    "launch3": "Зал A, стол 1 — 15:30",
-    "judging": "Комната 1 — 09:30",
+    "number": "60002",
+    "name": "SPECTRAL",
+    "launch1": "09:17",
+    "launch2": "11:24",
+    "launch3": "14:16",
+    "judging": "10:10",
+    "pitZone": 2
+  },
+  {
+    "number": "60003",
+    "name": "i-Stars",
+    "launch1": "09:29",
+    "launch2": "11:38",
+    "launch3": "14:32",
+    "judging": "10:15",
+    "pitZone": 3
+  },
+  {
+    "number": "60004",
+    "name": "SlapSeals",
+    "launch1": "09:41",
+    "launch2": "11:52",
+    "launch3": "14:48",
+    "judging": "10:20",
+    "pitZone": 4
+  },
+  {
+    "number": "60005",
+    "name": "Sparks",
+    "launch1": "09:53",
+    "launch2": "12:06",
+    "launch3": "15:04",
+    "judging": "10:25",
     "pitZone": 5
   },
   {
-    "number": "11111",
-    "name": "Mindstorms Masters",
-    "launch1": "Зал B, стол 2 — 09:20",
-    "launch2": "Зал A, стол 3 — 13:40",
-    "launch3": "Зал B, стол 4 — 16:00",
-    "judging": "Комната 2 — 11:00",
+    "number": "60006",
+    "name": "HEPTORY",
+    "launch1": "10:05",
+    "launch2": "12:20",
+    "launch3": "15:20",
+    "judging": "10:30",
+    "pitZone": 6
+  },
+  {
+    "number": "60007",
+    "name": "Riviera Robotics",
+    "launch1": "10:17",
+    "launch2": "12:34",
+    "launch3": "15:36",
+    "judging": "10:35",
+    "pitZone": 7
+  },
+  {
+    "number": "60008",
+    "name": "NIMBUS",
+    "launch1": "10:29",
+    "launch2": "12:48",
+    "launch3": "15:52",
+    "judging": "10:40",
     "pitZone": 8
+  },
+  {
+    "number": "60009",
+    "name": "GLITCHTECH",
+    "launch1": "10:41",
+    "launch2": "13:02",
+    "launch3": "16:08",
+    "judging": "10:45",
+    "pitZone": 9
+  },
+  {
+    "number": "60010",
+    "name": "Snapmakers",
+    "launch1": "10:53",
+    "launch2": "13:16",
+    "launch3": "14:00",
+    "judging": "10:50",
+    "pitZone": 10
+  },
+  {
+    "number": "60011",
+    "name": "RSSaran_girls",
+    "launch1": "11:05",
+    "launch2": "11:10",
+    "launch3": "14:16",
+    "judging": "10:55",
+    "pitZone": 11
+  },
+  {
+    "number": "60012",
+    "name": "Moving Eleven",
+    "launch1": "11:17",
+    "launch2": "11:24",
+    "launch3": "14:32",
+    "judging": "11:00",
+    "pitZone": 12
+  },
+  {
+    "number": "60013",
+    "name": "Robotics Alikhan 15",
+    "launch1": "09:05",
+    "launch2": "11:38",
+    "launch3": "14:48",
+    "judging": "11:05",
+    "pitZone": 13
+  },
+  {
+    "number": "60014",
+    "name": "Error 404",
+    "launch1": "09:17",
+    "launch2": "11:52",
+    "launch3": "15:04",
+    "judging": "11:10",
+    "pitZone": 14
+  },
+  {
+    "number": "60015",
+    "name": "Obalduyes",
+    "launch1": "09:29",
+    "launch2": "12:06",
+    "launch3": "15:20",
+    "judging": "11:15",
+    "pitZone": 15
+  },
+  {
+    "number": "60016",
+    "name": "Fizmat Robotics",
+    "launch1": "09:41",
+    "launch2": "12:20",
+    "launch3": "15:36",
+    "judging": "11:20",
+    "pitZone": 16
+  },
+  {
+    "number": "60017",
+    "name": "Fizmat Tech",
+    "launch1": "09:53",
+    "launch2": "12:34",
+    "launch3": "15:52",
+    "judging": "11:25",
+    "pitZone": 17
+  },
+  {
+    "number": "60018",
+    "name": "Society by NSPM",
+    "launch1": "10:05",
+    "launch2": "12:48",
+    "launch3": "16:08",
+    "judging": "11:30",
+    "pitZone": 18
+  },
+  {
+    "number": "60019",
+    "name": "AstroRise",
+    "launch1": "10:17",
+    "launch2": "13:02",
+    "launch3": "14:00",
+    "judging": "10:05",
+    "pitZone": 19
+  },
+  {
+    "number": "60020",
+    "name": "SpiriX",
+    "launch1": "10:29",
+    "launch2": "13:16",
+    "launch3": "14:16",
+    "judging": "10:10",
+    "pitZone": 20
+  },
+  {
+    "number": "60021",
+    "name": "Kuromi",
+    "launch1": "10:41",
+    "launch2": "11:10",
+    "launch3": "14:32",
+    "judging": "10:15",
+    "pitZone": 21
+  },
+  {
+    "number": "60022",
+    "name": "Farabi Robotics",
+    "launch1": "10:53",
+    "launch2": "11:24",
+    "launch3": "14:48",
+    "judging": "10:20",
+    "pitZone": 22
+  },
+  {
+    "number": "60023",
+    "name": "Sunkar-q",
+    "launch1": "11:05",
+    "launch2": "11:38",
+    "launch3": "15:04",
+    "judging": "10:25",
+    "pitZone": 23
+  },
+  {
+    "number": "60024",
+    "name": "Skybound",
+    "launch1": "11:17",
+    "launch2": "11:52",
+    "launch3": "15:20",
+    "judging": "10:30",
+    "pitZone": 24
+  },
+  {
+    "number": "60025",
+    "name": "Kaskabulak",
+    "launch1": "09:05",
+    "launch2": "12:06",
+    "launch3": "15:36",
+    "judging": "10:35",
+    "pitZone": 25
+  },
+  {
+    "number": "60026",
+    "name": "Imperium",
+    "launch1": "09:17",
+    "launch2": "12:20",
+    "launch3": "15:52",
+    "judging": "10:40",
+    "pitZone": 26
+  },
+  {
+    "number": "60027",
+    "name": "SilkWayBots",
+    "launch1": "09:29",
+    "launch2": "12:34",
+    "launch3": "16:08",
+    "judging": "10:45",
+    "pitZone": 27
+  },
+  {
+    "number": "60028",
+    "name": "Nova",
+    "launch1": "09:41",
+    "launch2": "12:48",
+    "launch3": "14:00",
+    "judging": "10:50",
+    "pitZone": 28
+  },
+  {
+    "number": "60029",
+    "name": "Ontustik",
+    "launch1": "09:53",
+    "launch2": "13:02",
+    "launch3": "14:16",
+    "judging": "10:55",
+    "pitZone": 29
+  },
+  {
+    "number": "60030",
+    "name": "BEASTS",
+    "launch1": "10:05",
+    "launch2": "13:16",
+    "launch3": "14:32",
+    "judging": "11:00",
+    "pitZone": 30
   }
 ]
