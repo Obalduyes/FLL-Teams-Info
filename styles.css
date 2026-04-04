@@ -244,6 +244,8 @@ h1 {
 .pit-highlight .row-value {
   color: var(--success);
   font-weight: 600;
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
 }
 
 .empty-state {
