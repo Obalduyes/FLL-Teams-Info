@@ -1,16 +1,16 @@
   :root {
     --bg: #000000;
-    --surface: #0a0a0a;
-    --surface-raised: #111111;
-    --border: #262626;
-    --border-strong: #333333;
+    --surface: rgba(10, 10, 10, 0.38);
+    --surface-raised: rgba(17, 17, 17, 0.42);
+    --border: rgba(255, 255, 255, 0.09);
+    --border-strong: rgba(255, 255, 255, 0.16);
     --text: #f0f0f0;
     --muted: #737373;
     --accent: #a3a3a3;
     --accent-bright: #fafafa;
     --success: #86efac;
     --radius: 12px;
-    --shadow: 0 20px 40px rgba(0, 0, 0, 0.75);
+    --shadow: 0 18px 36px rgba(0, 0, 0, 0.45);
   }
 
   *,
@@ -41,15 +41,15 @@
     background-color: #000;
     background-image: url("assets/dragon-bg.png");
     background-repeat: no-repeat;
-    background-position: left center;
-    background-size: auto 100%;
+    background-position: center center;
+    background-size: auto 46%;
     min-height: 100vh;
   }
 
   @media (max-width: 520px) {
     .bg-dragon-photo {
-      background-size: auto 110%;
-      background-position: 6% center;
+      background-size: auto 52%;
+      background-position: center center;
     }
   }
 
@@ -125,6 +125,8 @@
     padding: 0.65rem 1rem;
     box-shadow: var(--shadow);
     transition: border-color 0.2s, box-shadow 0.2s;
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
   }
 
   .input-wrap:focus-within {
@@ -173,6 +175,8 @@
     padding: 1.35rem 1.4rem;
     box-shadow: var(--shadow);
     animation: fadeUp 0.35s ease both;
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
   }
 
   @keyframes fadeUp {
@@ -276,6 +280,8 @@
     border: 1px dashed var(--border);
     border-radius: var(--radius);
     background: var(--surface);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
   }
 
   .empty-state strong {
