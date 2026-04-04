@@ -60,22 +60,23 @@
     results.innerHTML = filtered.map(renderCard).join("");
   }
 
-  /** Только номер пит-зоны (число). Поддержка числа в JSON или строки «42». */
+  /** Пит-зона: число или плейсхолдер «--». */
   function formatPitZone(v) {
-    if (v == null || v === "") return "—";
+    if (v == null || v === "") return "--";
+    const trimmed = String(v).trim();
+    if (trimmed === "--") return "--";
     if (typeof v === "number" && Number.isFinite(v)) {
       return String(Math.trunc(v));
     }
-    const trimmed = String(v).trim();
     const n = Number(trimmed);
-    if (Number.isFinite(n)) return String(Math.trunc(n));
+    if (Number.isFinite(n) && trimmed !== "") return String(Math.trunc(n));
     const m = trimmed.match(/-?\d+/);
-    return m ? m[0] : "—";
+    return m ? m[0] : "--";
   }
 
   function renderCard(team) {
-    const num = escapeHtml(team.number || "—");
-    const name = escapeHtml(team.name || "Без названия");
+    const num = escapeHtml(team.number || "--");
+    const name = escapeHtml(team.name || "--");
     return (
       '<article class="card">' +
       '<div class="card-identity">' +
@@ -104,7 +105,7 @@
   }
 
   function row(label, value, pit) {
-    const v = value != null && String(value).trim() !== "" ? String(value) : "—";
+    const v = value != null && String(value).trim() !== "" ? String(value) : "--";
     const cls = pit ? "row pit-highlight" : "row";
     return (
       '<div class="' +
