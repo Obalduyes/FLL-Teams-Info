@@ -93,9 +93,9 @@
       "</div>" +
       "</div>" +
       '<div class="rows">' +
-      row("Запуск 1", team.launch1) +
-      row("Запуск 2", team.launch2) +
-      row("Запуск 3", team.launch3) +
+      row("Карта 1", team.launch1) +
+      row("Карта 2", team.launch2) +
+      row("Карта 3", team.launch3) +
       row("Judging Session", team.judging) +
       row("Пит-зона", formatPitZone(team.pitZone), true) +
       "</div>" +
