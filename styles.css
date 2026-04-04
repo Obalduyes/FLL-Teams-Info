@@ -33,6 +33,26 @@
     line-height: 1.5;
   }
 
+  .bg-dragon-photo {
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    background-color: #000;
+    background-image: url("assets/dragon-bg.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: auto 100%;
+    min-height: 100vh;
+  }
+
+  @media (max-width: 520px) {
+    .bg-dragon-photo {
+      background-size: auto 110%;
+      background-position: 6% center;
+    }
+  }
+
   .bg-grid {
     position: fixed;
     inset: 0;
