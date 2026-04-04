@@ -16,10 +16,11 @@
   function matchTeam(query, team) {
     const q = norm(query);
     if (!q) return false;
-    const num = norm(team.number);
     const name = norm(team.name);
-    if (num && (num === q || num.includes(q) || q.includes(num))) return true;
     if (name && name.includes(q)) return true;
+    const num = norm(team.number);
+    if (!num || num === "---") return false;
+    if (num === q || num.includes(q) || q.includes(num)) return true;
     return false;
   }
 
@@ -40,7 +41,7 @@
       results.innerHTML = "";
       hint.textContent =
         teams.length > 0
-          ? `В базе ${teams.length} ${pluralTeams(teams.length)}. Начните вводить номер или название.`
+          ? `В базе ${teams.length} ${pluralTeams(teams.length)}. Начните вводить номер или название команды.`
           : "Список команд пуст. Добавьте записи в data/teams.json.";
       return;
     }
@@ -74,8 +75,14 @@
     return m ? m[0] : "--";
   }
 
+  function displayTeamNumber(team) {
+    const n = team.number;
+    if (n == null || String(n).trim() === "") return "---";
+    return String(n).trim();
+  }
+
   function renderCard(team) {
-    const num = escapeHtml(team.number || "--");
+    const num = escapeHtml(displayTeamNumber(team));
     const name = escapeHtml(team.name || "--");
     return (
       '<article class="card">' +
