@@ -2,6 +2,9 @@
   const input = document.getElementById("q");
   const results = document.getElementById("results");
   const hint = document.getElementById("hint");
+  const themeToggle = document.getElementById("theme-toggle");
+  const sunIcon = document.querySelector(".sun-icon");
+  const moonIcon = document.querySelector(".moon-icon");
 
   let teams = [];
   let loadError = null;
@@ -156,6 +159,38 @@
       loadError = e.message || String(e);
       render();
     });
+
+  // Theme switching functionality
+  function initTheme() {
+    const savedTheme = localStorage.getItem("theme");
+    const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    const theme = savedTheme || (prefersDark ? "dark" : "light");
+    setTheme(theme);
+  }
+
+  function setTheme(theme) {
+    if (theme === "light") {
+      document.documentElement.setAttribute("data-theme", "light");
+      sunIcon.style.display = "none";
+      moonIcon.style.display = "block";
+    } else {
+      document.documentElement.removeAttribute("data-theme");
+      sunIcon.style.display = "block";
+      moonIcon.style.display = "none";
+    }
+    localStorage.setItem("theme", theme);
+  }
+
+  function toggleTheme() {
+    const currentTheme = document.documentElement.getAttribute("data-theme");
+    const newTheme = currentTheme === "light" ? "dark" : "light";
+    setTheme(newTheme);
+  }
+
+  themeToggle.addEventListener("click", toggleTheme);
+
+  // Initialize theme on page load
+  initTheme();
 
   let t = null;
   input.addEventListener("input", () => {
