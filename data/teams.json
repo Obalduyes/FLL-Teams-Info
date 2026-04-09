@@ -1,326 +1,37 @@
 [
   {
     "name": "CtrlRex",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
+    "launch1": "12:50 (Field 1)",
+    "launch2": "17:00 (Field 1)",
+    "launch3": "10:40 (Field 2)",
+    "judging": "11:00",
     "pitZone": "--",
     "number": "---"
   },
   {
     "name": "SPECTRAL",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
+    "launch1": "12:50 (Field 4)",
+    "launch2": "17:10 (Field 1)",
+    "launch3": "10:50 (Field 2)",
+    "judging": "11:40",
     "pitZone": "--",
     "number": "---"
   },
   {
     "name": "i-Stars",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "SlapSeals",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Sparks",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
+    "launch1": "11:30 (Field 4)",
+    "launch2": "17:20 (Field 1)",
+    "launch3": "11:00 (Field 2)",
+    "judging": "12:20",
     "pitZone": "--",
     "number": "---"
   },
   {
     "name": "HEPTORY",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Riviera Robotics",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "NIMBUS",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "GLITCHTECH",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Snapmakers",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "RSSaran_girls",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Moving Eleven",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Robotics Alikhan 15",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Error 404",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Obalduyes",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Fizmat Robotics",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Fizmat Tech",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Society by NSPM",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "AstroRise",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "SpiriX",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Kuromi",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Farabi Robotics",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Sunkar-q",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Skybound",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Kaskabulak",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Imperium",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "SilkWayBots",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Nova",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Ontustik",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "BEASTS",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-
-  {
-    "name": "amor",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Tanyl Tech",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Burros",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "Ender Force",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "SBIL-LION-AIRES",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
-    "pitZone": "--",
-    "number": "---"
-  },
-  {
-    "name": "UlytauEmpire",
-    "launch1": "--",
-    "launch2": "--",
-    "launch3": "--",
-    "judging": "--",
+    "launch1": "11:40 (Field 4)",
+    "launch2": "17:20 (Field 2)",
+    "launch3": "11:00 (Field 3)",
+    "judging": "12:20",
     "pitZone": "--",
     "number": "---"
   }
