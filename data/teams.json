@@ -5,7 +5,7 @@
     "launch1": "14:30 (Field 1)",
     "launch2": "17:00 (Field 1)",
     "launch3": "10:40 (Field 2)",
-    "judging": "11:00",
+    "judging": "11:00 (Room 1)",
     "pitZone": "--",
     "number": "310410"
   },
@@ -15,7 +15,7 @@
     "launch1": "14:40 (Field 1)",
     "launch2": "17:10 (Field 1)",
     "launch3": "10:50 (Field 2)",
-    "judging": "11:40",
+    "judging": "11:40 (Room 1)",
     "pitZone": "--",
     "number": "311011"
   },
@@ -25,7 +25,7 @@
     "launch1": "14:50 (Field 1)",
     "launch2": "17:20 (Field 1)",
     "launch3": "11:00 (Field 2)",
-    "judging": "12:20",
+    "judging": "12:20 (Room 1)",
     "pitZone": "--",
     "number": "311321"
   },
@@ -35,7 +35,7 @@
     "launch1": "14:30 (Field 2)",
     "launch2": "17:00 (Field 2)",
     "launch3": "10:40 (Field 3)",
-    "judging": "11:00",
+    "judging": "11:00 (Room 2)",
     "pitZone": "--",
     "number": "310147"
   },
@@ -45,7 +45,7 @@
     "launch1": "14:40 (Field 2)",
     "launch2": "17:10 (Field 2)",
     "launch3": "10:50 (Field 3)",
-    "judging": "11:40",
+    "judging": "11:40 (Room 2)",
     "pitZone": "--",
     "number": "311008"
   },
@@ -55,7 +55,7 @@
     "launch1": "14:50 (Field 2)",
     "launch2": "17:20 (Field 2)",
     "launch3": "11:00 (Field 3)",
-    "judging": "12:20",
+    "judging": "12:20 (Room 2)",
     "pitZone": "--",
     "number": "311025"
   },
@@ -65,7 +65,7 @@
     "launch1": "14:30 (Field 3)",
     "launch2": "17:00 (Field 3)",
     "launch3": "10:40 (Field 4)",
-    "judging": "11:00",
+    "judging": "11:00 (Room 3)",
     "pitZone": "--",
     "number": "311622"
   },
@@ -75,7 +75,7 @@
     "launch1": "14:40 (Field 3)",
     "launch2": "17:10 (Field 3)",
     "launch3": "10:50 (Field 4)",
-    "judging": "11:40",
+    "judging": "11:40 (Room 3)",
     "pitZone": "--",
     "number": "311027"
   },
@@ -85,7 +85,7 @@
     "launch1": "14:50 (Field 3)",
     "launch2": "17:20 (Field 3)",
     "launch3": "11:00 (Field 4)",
-    "judging": "12:20",
+    "judging": "12:20 (Room 3)",
     "pitZone": "--",
     "number": "311026"
   },
@@ -95,7 +95,7 @@
     "launch1": "15:00 (Field 1)",
     "launch2": "16:40 (Field 1)",
     "launch3": "10:50 (Field 1)",
-    "judging": "14:00",
+    "judging": "14:00 (Room 1)",
     "pitZone": "--",
     "number": null
   },
@@ -105,7 +105,7 @@
     "launch1": "15:40 (Field 1)",
     "launch2": "16:50 (Field 1)",
     "launch3": "11:00 (Field 1)",
-    "judging": "14:40",
+    "judging": "14:40 (Room 1)",
     "pitZone": "--",
     "number": "311004"
   },
@@ -115,7 +115,7 @@
     "launch1": "14:30 (Field 4)",
     "launch2": "16:30 (Field 1)",
     "launch3": "11:10 (Field 1)",
-    "judging": "15:20",
+    "judging": "15:20 (Room 1)",
     "pitZone": "--",
     "number": "310115"
   },
@@ -125,7 +125,7 @@
     "launch1": "15:00 (Field 4)",
     "launch2": "17:30 (Field 1)",
     "launch3": "11:20 (Field 1)",
-    "judging": "16:00",
+    "judging": "16:00 (Room 1)",
     "pitZone": "--",
     "number": "311030"
   },
@@ -135,7 +135,7 @@
     "launch1": "15:50 (Field 1)",
     "launch2": "17:40 (Field 1)",
     "launch3": "11:30 (Field 1)",
-    "judging": "16:40",
+    "judging": "16:40 (Room 1)",
     "pitZone": "--",
     "number": "311002"
   },
@@ -145,7 +145,7 @@
     "launch1": "15:30 (Field 4)",
     "launch2": "16:20 (Field 1)",
     "launch3": "11:40 (Field 1)",
-    "judging": "17:20",
+    "judging": "17:20 (Room 1)",
     "pitZone": "--",
     "number": "310406"
   },
@@ -155,7 +155,7 @@
     "launch1": "15:10 (Field 1)",
     "launch2": "16:20 (Field 4)",
     "launch3": "11:50 (Field 1)",
-    "judging": "11:00",
+    "judging": "10:30 (Room 1)",
     "pitZone": "--",
     "number": "310107"
   },
@@ -165,7 +165,7 @@
     "launch1": "15:20 (Field 1)",
     "launch2": "16:30 (Field 4)",
     "launch3": "10:30 (Field 3)",
-    "judging": "11:40",
+    "judging": "11:10 (Room 1)",
     "pitZone": "--",
     "number": "310106"
   },
@@ -175,7 +175,7 @@
     "launch1": "15:30 (Field 1)",
     "launch2": "16:40 (Field 4)",
     "launch3": "10:30 (Field 1)",
-    "judging": "12:20",
+    "judging": "11:50 (Room 1)",
     "pitZone": "--",
     "number": "310163"
   },
@@ -185,7 +185,7 @@
     "launch1": "15:10 (Field 2)",
     "launch2": "16:40 (Field 2)",
     "launch3": "11:10 (Field 2)",
-    "judging": "14:00",
+    "judging": "14:00 (Room 2)",
     "pitZone": "--",
     "number": "310425"
   },
@@ -195,7 +195,7 @@
     "launch1": "15:40 (Field 2)",
     "launch2": "16:50 (Field 2)",
     "launch3": "11:20 (Field 2)",
-    "judging": "14:40",
+    "judging": "14:40 (Room 2)",
     "pitZone": "--",
     "number": "310426"
   },
@@ -205,7 +205,7 @@
     "launch1": "14:40 (Field 4)",
     "launch2": "16:30 (Field 2)",
     "launch3": "11:30 (Field 2)",
-    "judging": "15:20",
+    "judging": "15:20 (Room 2)",
     "pitZone": "--",
     "number": null
   },
@@ -215,7 +215,7 @@
     "launch1": "15:10 (Field 4)",
     "launch2": "17:30 (Field 2)",
     "launch3": "11:40 (Field 2)",
-    "judging": "16:00",
+    "judging": "16:00 (Room 2)",
     "pitZone": "--",
     "number": "310112"
   },
@@ -225,7 +225,7 @@
     "launch1": "15:50 (Field 2)",
     "launch2": "17:40 (Field 2)",
     "launch3": "11:10 (Field 3)",
-    "judging": "16:40",
+    "judging": "16:40 (Room 2)",
     "pitZone": "--",
     "number": "311644"
   },
@@ -235,7 +235,7 @@
     "launch1": "15:40 (Field 4)",
     "launch2": "16:20 (Field 2)",
     "launch3": "11:20 (Field 3)",
-    "judging": "17:20",
+    "judging": "17:20 (Room 2)",
     "pitZone": "--",
     "number": null
   },
@@ -245,7 +245,7 @@
     "launch1": "15:10 (Field 2)",
     "launch2": "17:00 (Field 4)",
     "launch3": "11:50 (Field 2)",
-    "judging": "10:30",
+    "judging": "10:30 (Room 2)",
     "pitZone": "--",
     "number": "310423"
   },
@@ -255,7 +255,7 @@
     "launch1": "15:20 (Field 2)",
     "launch2": "17:10 (Field 4)",
     "launch3": "10:30 (Field 4)",
-    "judging": "11:10",
+    "judging": "11:10 (Room 2)",
     "pitZone": "--",
     "number": "210709"
   },
@@ -265,7 +265,7 @@
     "launch1": "15:30 (Field 2)",
     "launch2": "17:20 (Field 4)",
     "launch3": "10:30 (Field 2)",
-    "judging": "11:50",
+    "judging": "11:50 (Room 2)",
     "pitZone": "--",
     "number": "210133"
   },
@@ -275,7 +275,7 @@
     "launch1": "15:10 (Field 3)",
     "launch2": "16:40 (Field 3)",
     "launch3": "11:30 (Field 3)",
-    "judging": "14:00",
+    "judging": "14:00 (Room 3)",
     "pitZone": "--",
     "number": "310343"
   },
@@ -285,7 +285,7 @@
     "launch1": "15:40 (Field 3)",
     "launch2": "16:50 (Field 3)",
     "launch3": "11:40 (Field 3)",
-    "judging": "14:40",
+    "judging": "14:40 (Room 3)",
     "pitZone": "--",
     "number": "310337"
   },
@@ -295,7 +295,7 @@
     "launch1": "14:50 (Field 4)",
     "launch2": "16:30 (Field 3)",
     "launch3": "11:10 (Field 4)",
-    "judging": "15:20",
+    "judging": "15:20 (Room 3)",
     "pitZone": "--",
     "number": null
   },
@@ -305,7 +305,7 @@
     "launch1": "15:20 (Field 4)",
     "launch2": "17:30 (Field 3)",
     "launch3": "11:20 (Field 4)",
-    "judging": "16:00",
+    "judging": "16:00 (Room 3)",
     "pitZone": "--",
     "number": "311626"
   },
@@ -315,38 +315,4 @@
     "launch1": "15:50 (Field 3)",
     "launch2": "17:40 (Field 3)",
     "launch3": "11:30 (Field 4)",
-    "judging": "16:40",
-    "pitZone": "--",
-    "number": null
-  },
-  {
-    "name": "Ender Force",
-    "practiceMatch": "12:00 (Field 1)",
-    "launch1": "15:50 (Field 4)",
-    "launch2": "16:20 (Field 3)",
-    "launch3": "11:40 (Field 4)",
-    "judging": "17:20",
-    "pitZone": "--",
-    "number": "310137"
-  },
-  {
-    "name": "SBIL-LION-AIRES",
-    "practiceMatch": "11:30 (Field 3)",
-    "launch1": "15:10 (Field 3)",
-    "launch2": "17:30 (Field 4)",
-    "launch3": "11:50 (Field 3)",
-    "judging": "10:30",
-    "pitZone": "--",
-    "number": null
-  },
-  {
-    "name": "UlytauEmpire",
-    "practiceMatch": "11:40 (Field 3)",
-    "launch1": "15:20 (Field 3)",
-    "launch2": "17:40 (Field 4)",
-    "launch3": "10:40 (Field 1)",
-    "judging": "11:10",
-    "pitZone": "--",
-    "number": null
-  }
-]
+    "judging": "16:40 (Room 3
