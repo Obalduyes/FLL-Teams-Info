@@ -315,4 +315,38 @@
     "launch1": "15:50 (Field 3)",
     "launch2": "17:40 (Field 3)",
     "launch3": "11:30 (Field 4)",
-    "judging": "16:40 (Room 3
+    "judging": "16:40 (Room 3)",
+    "pitZone": "--",
+    "number": null
+  },
+  {
+    "name": "Ender Force",
+    "practiceMatch": "12:00 (Field 1)",
+    "launch1": "15:50 (Field 4)",
+    "launch2": "16:20 (Field 3)",
+    "launch3": "11:40 (Field 4)",
+    "judging": "17:20 (Room 3)",
+    "pitZone": "--",
+    "number": "310137"
+  },
+  {
+    "name": "SBIL-LION-AIRES",
+    "practiceMatch": "11:30 (Field 3)",
+    "launch1": "15:10 (Field 3)",
+    "launch2": "17:30 (Field 4)",
+    "launch3": "11:50 (Field 3)",
+    "judging": "10:30 (Room 3)",
+    "pitZone": "--",
+    "number": null
+  },
+  {
+    "name": "UlytauEmpire",
+    "practiceMatch": "11:40 (Field 3)",
+    "launch1": "15:20 (Field 3)",
+    "launch2": "17:40 (Field 4)",
+    "launch3": "10:40 (Field 1)",
+    "judging": "11:10 (Room 3)",
+    "pitZone": "--",
+    "number": null
+  }
+]
