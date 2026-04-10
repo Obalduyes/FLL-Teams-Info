@@ -107,6 +107,7 @@
       row("First Run", team.launch1) +
       row("Second Run", team.launch2) +
       row("Third Run", team.launch3) +
+      row("Practice Match", team.practiceMatch) +
       row("Judging Session", team.judging) +
       row("Пит-зона", formatPitZone(team.pitZone), true) +
       "</div>" +
